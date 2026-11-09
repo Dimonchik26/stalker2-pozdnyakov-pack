@@ -1,0 +1,3 @@
+﻿CustomConfigOverride : struct.begin {bpatch}
+   InventoryPenaltyLessWeight = 170.0
+struct.end

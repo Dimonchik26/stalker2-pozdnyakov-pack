@@ -1,0 +1,5 @@
+﻿DefaultConfig : struct.begin {bpatch}
+   InventoryPenaltyLessWeight = 170.0
+   MediumEffectStartUI = 170
+   CriticalEffectStartUI = 190
+struct.end

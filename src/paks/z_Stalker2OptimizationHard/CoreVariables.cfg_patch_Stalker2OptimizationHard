@@ -1,0 +1,12 @@
+﻿DefaultConfig : struct.begin {bpatch}
+   ALifeGridUpdateDelay = 3.0
+   ALifeGridVisionRadius = 7000.0
+   GenericModelGridVisionRadius = 6000.0
+   SimulatePhysicsDistance = 2500.0
+   SkyLightUpdateDeltaTime = 20
+   CorpseConditionOnlineCount = 3
+   CorpseOfflineSquaredDistance = 25000000.0
+   ProjectileDecalMaxSaveCountOnCorpse = 4
+   UntouchedDespawnItemTime = 1200.f
+   MaxNumberOfVisibleInteractionDots = 15
+struct.end

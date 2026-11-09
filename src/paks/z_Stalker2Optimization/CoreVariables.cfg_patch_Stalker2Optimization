@@ -1,0 +1,7 @@
+﻿DefaultConfig : struct.begin {bpatch}
+   ALifeGridUpdateDelay = 2.0
+   SimulatePhysicsDistance = 4000.0
+   SkyLightUpdateDeltaTime = 10
+   CorpseConditionOnlineCount = 5
+   ProjectileDecalMaxSaveCountOnCorpse = 8
+struct.end
